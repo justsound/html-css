@@ -1,0 +1,54 @@
+.main-frame {
+  /* background-image: url('../images/fon_2.jpg');  */
+  background-image:url('https://www.zastavki.com/pictures/originals/20173D-graphics_Blue_abstract_figures_in_the_air_3d_graphics_118743_.jpg'); 
+  margin: 20px auto;
+  width: 20%;
+  height: 40%;
+  border: 2px solid red;
+
+}
+
+body {
+    margin: 0;
+    background: url('https://www.ppt-backgrounds.net/thumbs/abstract-technology-art-templates.jpg');
+    /* background: url('https://www.zastavki.com/pictures/originals/20173D-graphics_Blue_abstract_figures_in_the_air_3d_graphics_118743_.jpg'); */
+    text-align:left;
+    padding-left: 0;
+    list-style-position: inside; 
+}
+
+.title{
+    text-align: center;
+    color: yellowgreen;
+
+}
+
+.text{
+    text-align: center;
+    color: whitesmoke;
+}
+
+.spisok{
+    font-size: 16px;
+    color: whitesmoke;
+    padding-left: 30%;
+    list-style-position: inside;  
+}
+
+.img{
+    display: block;
+    width: 75px auto;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 30%;
+}
+
+a {
+    color: red;
+  }
+
+.prof{
+    font-size: 30px;
+    color: rgb(153, 133, 23);
+    text-align: center;
+}
